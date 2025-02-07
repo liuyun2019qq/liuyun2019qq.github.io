@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year master's student in economics at Shanghai Jiao Tong University. My research interests lie in Development Economics, Labor Economics, and Industrial Organization. [Resume]
+I am a second-year master's student in economics at Shanghai Jiao Tong University. My research interests lie in Development Economics, Labor Economics, and Industrial Organization. [Resume](liuyun2019qq.github.io/files/Yun_Liu_Resume.pdf)
 
 Reseach
 ======
