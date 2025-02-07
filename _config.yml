@@ -24,9 +24,9 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yun Liu"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
-  location         : "Shanghai China"
+  location         : "Shanghai, China"
   employer         : # "Red Brick University"
   uri              : # URL
   email            : "ygg2019@sjtu.edu.cn" 
