@@ -13,8 +13,8 @@ Reseach
 ======
 **Working papers**
 
-Rural-urban Migration and Argricultura Fires, with [Shiqi Guo](https://www.acem.sjtu.edu.cn/en/faculty/guoshiqi.html)
+Rural-urban Migration and Argricultural Fires, with [Shiqi Guo](https://www.acem.sjtu.edu.cn/en/faculty/guoshiqi.html)
 
 **Works in progress**
 
-Sunset Time and Rural-urban Eduation Gap
+Sunset Time and Rural-urban Education Gap
